@@ -1,0 +1,2 @@
+//jo najis
+#include<iostream>
